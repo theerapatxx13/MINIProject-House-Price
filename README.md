@@ -19,3 +19,10 @@ House Prices Dataset (~175,000 records)
 
 ## Key Insight
 Area is the most important feature (53% importance).
+
+## Dataset
+
+Due to file size limitations, the dataset is not uploaded to this repository.
+
+You can download it here:
+[Download Dataset] https://drive.google.com/file/d/182AtZMchT01sRgqjVK6lkNh2AIYNP7r3/view?usp=drivesdk
