@@ -1,5 +1,4 @@
 # MINIProject-House-Price
-# House Price Prediction
 
 ## Objective
 Predict house prices using Regression Models.
